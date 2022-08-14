@@ -4,7 +4,7 @@
 <br>
 ## Description
 
-To implement such a recycler view, you need to create your own implementation of layout manager. Using the **semicircular_recycler_view** library, all you have to do is initialize the *LayoutManager* property of your *RecyclerView* as follows:
+To implement such a recycler view, you need to create your own implementation of layout manager. Using this library, all you have to do is initialize the *LayoutManager* property of your *RecyclerView* as follows:
 ```
 binding.recyclerView.apply {
     ...
